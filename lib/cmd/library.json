@@ -1,0 +1,21 @@
+{
+    "name": "cmd",
+    "description": "A serial command line interface with buffer editing.",
+    "keywords": "serial, cmd, communication, processing, command",
+    "authors":
+    {
+      "name": "James Coleman",
+      "email": "grmrgecko@gmail.com",
+      "url": "https://github.com/GRMrGecko"
+    },
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/GRMrGecko/cmd.git"
+    },
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "license": "MIT",
+    "homepage": "https://mrgeckosmedia.com",
+    "platforms": "*"
+  }
